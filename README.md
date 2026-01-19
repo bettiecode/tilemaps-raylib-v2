@@ -5,3 +5,5 @@ this project's purpose was to hone my skills, and remake a previous onw with a b
 i'm still unsure if the way i do rendering, loading, and data storing is the best way
 
 project is not intented for use (editor functionalities are not even implemented), i just felt like coding it :3
+
+lacks malloc error handling, render loop optimization, and many more things i don't know about
